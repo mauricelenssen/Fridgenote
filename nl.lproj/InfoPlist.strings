@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Event_V2
+
+  Created by Maurice Lenssen on 29/1/21.
+  Copyright © 2021 Lenssen, Maurice (M.). All rights reserved.
+*/
+
+"NSCalendarsUsageDescription" = "FridgeNote gebruikt uw agenda om de dagelijkse activiteiten weer te geven.";
+"NSPhotoLibraryUsageDescription" = "FridgeNote gebruikt de foto's op uw apparaat voor een diavertoning als u dit toelaat.";
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="60" id="KGk-i7-Jjw" customClass="MaxBirthdayTableViewCell" customModule="FridgeNote" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="490" height="60"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="490" height="60"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gfN-IE-eYj">
+                        <rect key="frame" x="14" y="35" width="471" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="Mp5-ud-64m"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" image="CellIDLargeImg.png" translatesAutoresizingMaskIntoConstraints="NO" id="yHt-OG-VeO">
+                        <rect key="frame" x="5" y="5" width="4" height="50"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="4" id="Rze-Qp-BSt"/>
+                            <constraint firstAttribute="height" constant="50" id="p6s-Tq-UOu"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalCompressionResistancePriority="250" text="Maurice Lenssen" lineBreakMode="tailTruncation" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zPO-Sm-rOE">
+                        <rect key="frame" x="14" y="5" width="182.5" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="jXV-Nn-4xQ"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="750" horizontalCompressionResistancePriority="1000" text="Tomorrow" textAlignment="right" lineBreakMode="tailTruncation" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jOH-8p-a5T">
+                        <rect key="frame" x="378" y="5" width="107" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="c0h-EB-3Ta"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="yHt-OG-VeO" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="5" id="0cj-on-Y2Z"/>
+                    <constraint firstAttribute="trailing" secondItem="jOH-8p-a5T" secondAttribute="trailing" constant="5" id="2RO-TY-oUL"/>
+                    <constraint firstItem="gfN-IE-eYj" firstAttribute="leading" secondItem="yHt-OG-VeO" secondAttribute="trailing" constant="5" id="6nL-eE-eT6"/>
+                    <constraint firstItem="jOH-8p-a5T" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="TN9-fE-XDd"/>
+                    <constraint firstAttribute="trailing" secondItem="gfN-IE-eYj" secondAttribute="trailing" constant="5" id="TNf-eH-Ftb"/>
+                    <constraint firstItem="yHt-OG-VeO" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="Tiq-Iv-dn2"/>
+                    <constraint firstItem="jOH-8p-a5T" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="zPO-Sm-rOE" secondAttribute="trailing" constant="5" id="Uiq-Ui-ASE"/>
+                    <constraint firstItem="zPO-Sm-rOE" firstAttribute="leading" secondItem="yHt-OG-VeO" secondAttribute="trailing" constant="5" id="iY9-1F-dhb"/>
+                    <constraint firstItem="zPO-Sm-rOE" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="qmW-LP-rel"/>
+                    <constraint firstItem="gfN-IE-eYj" firstAttribute="top" secondItem="zPO-Sm-rOE" secondAttribute="bottom" id="wkK-yV-cAQ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="birthdayDateLbl" destination="gfN-IE-eYj" id="vBY-Ac-aMY"/>
+                <outlet property="birthdayDaysLbl" destination="jOH-8p-a5T" id="AAj-yM-G1M"/>
+                <outlet property="birthdayNameLbl" destination="zPO-Sm-rOE" id="heJ-Nx-39I"/>
+                <outlet property="eventColourIV" destination="yHt-OG-VeO" id="BQf-pu-0kw"/>
+            </connections>
+            <point key="canvasLocation" x="-28.985507246376812" y="50.223214285714285"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="CellIDLargeImg.png" width="4" height="50"/>
+    </resources>
+</document>

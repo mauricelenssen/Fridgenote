@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="70" id="KGk-i7-Jjw" customClass="PhotoAlbumTableViewCell" customModule="FridgeNote" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="348" height="70"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="348" height="70"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qew-7a-BdM">
+                        <rect key="frame" x="60" y="10" width="288" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="30" id="Fod-WA-BwV"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="TickNight.png" translatesAutoresizingMaskIntoConstraints="NO" id="K0t-KS-T6u">
+                        <rect key="frame" x="20" y="10" width="30" height="30"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="30" id="0Ld-LQ-vsS"/>
+                            <constraint firstAttribute="height" constant="30" id="hpc-vm-WYy"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IhX-kV-FzG">
+                        <rect key="frame" x="60" y="40" width="283" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="Bwa-8B-hGZ"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="K0t-KS-T6u" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="20" id="7P8-a2-tqa"/>
+                    <constraint firstAttribute="trailing" secondItem="qew-7a-BdM" secondAttribute="trailing" id="AqR-Gi-m4I"/>
+                    <constraint firstItem="qew-7a-BdM" firstAttribute="leading" secondItem="K0t-KS-T6u" secondAttribute="trailing" constant="10" id="Ib6-ff-BFZ"/>
+                    <constraint firstItem="qew-7a-BdM" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="Jpq-5x-Pp6"/>
+                    <constraint firstItem="K0t-KS-T6u" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="MRO-GC-LFU"/>
+                    <constraint firstItem="IhX-kV-FzG" firstAttribute="top" secondItem="qew-7a-BdM" secondAttribute="bottom" id="e1m-NR-dN1"/>
+                    <constraint firstAttribute="trailing" secondItem="IhX-kV-FzG" secondAttribute="trailing" constant="5" id="fIo-OE-RV7"/>
+                    <constraint firstItem="K0t-KS-T6u" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="iwP-yj-WFj"/>
+                    <constraint firstItem="IhX-kV-FzG" firstAttribute="leading" secondItem="K0t-KS-T6u" secondAttribute="trailing" constant="10" id="s5G-0j-e2w"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="photoAlbumNameLbl" destination="qew-7a-BdM" id="bdM-QJ-S9w"/>
+                <outlet property="photoAlbumSelectionIv" destination="K0t-KS-T6u" id="Vx6-jV-Eyk"/>
+                <outlet property="photoAlbumTypeLbl" destination="IhX-kV-FzG" id="ecm-FN-w05"/>
+            </connections>
+            <point key="canvasLocation" x="152.17391304347828" y="136.60714285714286"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="TickNight.png" width="30" height="30"/>
+    </resources>
+</document>

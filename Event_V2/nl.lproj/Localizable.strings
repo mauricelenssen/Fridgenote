@@ -1,0 +1,334 @@
+/* 
+  Localizable.strings
+  Event_V2
+
+  Created by Maurice Lenssen on 21/12/20.
+  Copyright © 2020 Lenssen, Maurice (M.). All rights reserved.
+*/
+
+
+
+//Momnth View
+"Please wait, retrieving initial calendars" = "Een ogenblik geduld, de eerste agenda's worden opgehaald.";
+"More Events" = "Meerdere activiteiten"; //Used in the calendar cell if more events are avaiable than can be shown
+
+//Screen savers, photo presentation
+"and" = "en"; // This text is shown at bottom to show the time when the photo was taken Eg Photo Taken: 2 Year [and] 3 Months ago.
+"ago." = "geleden."; // This text is shown at bottom to show the time when the photo was taken Eg Photo Taken: 2 Year 3 Months [ago.]
+
+//Main Window Strings
+"Today" = "Vandaag";
+"Yesterday" = "Gisteren";
+"Tomorrow" = "Morgen";
+"All Day" = "Hele dag";
+
+"Shopping List" = "Boodschappen";
+"Upcoming Events" = "Komende activiteiten";
+"To Do List" = "Takenlijst";
+"Timer" = "Timer";
+
+"Please add your To Do List here." = "Voeg hier uw takenlijst toe";
+"Please add your Shopping List here." = "Voeg hier uw boodschappenlijst toe";
+"Add Calendar" = "Agenda toevoegen";
+"Calendar & Photo Access Disabled, please enable in iPad Settings" = "Toegang tot agenda en foto's uitgeschakeld, schakel dit in iPad-instellingen in";
+
+"Calendar Access Disabled, please enable in iPad Settings" = "Toegang to agenda uitgeschakeld, schakel dit in iPad-instellingen in";
+"Photo Access Disabled, please enable in iPad Settings" = "Toegang tot Foto's uitgeschakeld, schakel in iPad-instellingen in";
+
+//No Photo Album Selected Popup when user presses the photo button
+"No Photo Album" = "Geen album";
+"This button activates the Photo Slide Show. Currently there is no photo album selected. Do you want to select a photo Album stored on your device?" = "Momenteel is er geen album geselecteerd. Wilt u een album selecteren dat op uw apparaat is opgeslagen?";
+
+//Delete popup screens
+"Warning" = "Waarschuwing";
+"Delete Shopping List" = "Verwijder boodschappenlijst";
+"Delete To Do List" = "Verwijder takenlijst";
+
+//Calendar Edit screen
+"Create a Calendar Event" = "Maak een nieuwe activiteit";
+"Type the name of your Calendar Event here!" = "Typ hier de naam van uw activiteit!";
+//"All Day Event" = "Hele dag";
+"Event Time" = "Tijd";
+"Duration:" = "Looptijd";
+"Alarm:" = "Melding:";
+"Calendar:" = "Agenda:";
+"Unlock App," = "Ontgrendel app, nog ";
+" entries left." = " x gratis invoer.";
+"Repeat:" = "Herhaal:";
+
+
+//Durtion of the Calendar events
+"15 min." = "15 min.";
+"30 min." = "30 min.";
+"1 hour" = "1 uur";
+"2 hours" = "2 uur";
+"4 hours" = "4 uur";
+"2 days" = "2 dagen";
+"3 days" = "3 dagen";
+"4 days" = "4 dagen";
+"5 days" = "5 dagen";
+"6 days" = "6 dagen";
+"1 week" = "1 week";
+"1 month" = "1 maand";
+
+//Alarm time of the calendar events
+"seconds" = "seconden";
+"min." = "min.";
+"hours" = "uren";
+"hour" = "uur";
+"before" = "ervoor";
+"after" = "erna";
+"None" = "Nooit";
+
+//Repeat the Calendar evdents labels
+"Daily" = "Elke dag";
+"Weekly" = "Elke week";
+"Monthly" = "Elke maand";
+"Year" = "Elk Jaar";
+"Custom" = "op maat";
+"day" = "dag";
+"days" = "dagen";
+"week" = "week";
+"weeks" = "weken";
+"month" = "maand";
+"months" = "maanden";
+"year" = "jaar";
+"years" = "jaren";
+"every" = "elke";
+"started" = "gestart"; //for events that have started in the passed, Eg. Holiday started, instead of Holiday -2 day
+
+"week on" = "week op";
+"weeks on" = "weken op";
+//"month on" = "maand op";
+//"months on" = "maanden op";
+//"year in" = "jaar in";
+//"years in" = "jaren in";
+
+"l" = "laatste"; //last day of the month
+
+"every day" = "Elke dag";
+"every week" = "Elke week";
+"every week on" = "Elke week op";
+"every month" = "Elke maand";
+//"every month on" = "Elke maand op";
+"every year" = "Elke jaar";
+//"every year in" = "Elk Jaar in";
+
+"on the:" = "Op:"; //toggle button in month and year recurrence popup
+"in:" = "In:"; //toggle button in year recurrence popup
+"each:" = "Elke:"; //toggle button in month and year recurrence popup
+
+"each" = "elke"; //repeats ever 2 weeks [each] Monday, tuesday, friday
+"on day" = "on dag"; //repeats ever 2 months [on day] 1,2,4.
+
+"on the" = "op de"; //repeats ever 2 months [on the] first Tueday.
+"On the" = "Op de"; //repeats every year in Feb, Mar and Sep.[On the] first Monday
+"in" = "in"; //repeats every year [in] April, March
+"every year in:" = "elk jaar in:"; //year recurrence edit [every year in:] Jan, Feb
+"years in:" = "jaren in:"; //year recurrence edit [every year:] Jan, feb
+
+
+"day" = "dag"; //repeats every month on the 1st,2nd [day]
+
+
+
+"event does not repeat" = "Evenement herhaalt niet"; //This text is used i nthe No repeat view inthe recurrence settings
+
+
+"jan" = "Jan";
+"feb" = "Feb";
+"mar" = "Mar";
+"apr" = "Apr";
+"May" = "Mei";
+"jun" = "Jun";
+"jul" = "Jul";
+"aug" = "Aug";
+"sep" = "Sep";
+"oct" = "Okt";
+"nov" = "Nov";
+"dec" = "Dec";
+
+"sunday" = "Zondag";
+"monday" = "Maandag";
+"tueday" = "Dinsdag";
+"wednesday" = "Woensdag";
+"thursday" = "Donderdag";
+"friday" = "Vrijdag";
+"saturday"  = "Zaterdag";
+"weekday"  = "week dag";
+"weekend" = "weekeinde dag";
+
+"first" = "eerste";
+"second" = "tweede";
+"third" = "derde";
+"fourth" = "vierde";
+"fifth" = "vijfde";
+"last" = "laatste"; //repeats ever 2 months on the 1st, 2nd, [last]
+
+//In App purchase: Restoring
+"Restore Purchase" = "Herstel aankoop";
+"Purchase restored" = "Aankoop hersteld";
+"Your app is now unlocked, the purchase has been restored." = "De app is nu ontgrendeld, de aankoop is hersteld.";
+"OK" = "OK";
+"Restore Error!" = "Herstel fout!";
+"Your app purchase could not be restored!" = "De app-aankoop kan niet worden hersteld!";
+"Unlock App, App is currently unlocked" = "Ontgrendel app, de app is ongrendeld";
+"Unlock App, App is currently locked" = "Ontgrendel app, de app is vergrendeld";
+
+
+
+"All Photos on the device" = "Alle foto's die niet in albums op de iPad staan";
+
+//Different calendar types, displayed underneath calendar
+"Local"  = "Lokaal";
+"iCloud" = "iCloud";
+"Exchange" = "Uitwisseling";
+"Subscription" = "Geabonneerd";
+"Birthday" = "Verjaardagen";
+"Found in Mail" = "Gevonden in Mail";
+
+//Calender Info/Delete Screen:
+"Event Info" = "Calender info";
+"Start: " = "Begin: ";
+"End: " = "Einde: ";
+"Calendar:" = "Agenda:";
+
+"Deleting Calendar Event" = "Verwijder activiteit";
+"Error - Could Not Delete Event" = "Fout! - Kan activiteit niet verwijderen";
+"Creating Event" = "activiteit creëren";
+"Updating Event" = "activiteit bijwerken";
+"Error - Adding Event" = "Fout! - Kan activiteit niet creëren";
+
+
+//Setting: Screen Brigthness Settings
+"Settings" = "Instelling";
+"Photo Limit of 5" = "Ontgrendel App, fotolimiet is 5";
+"Screen Brightness Settings" = "Schermhelderheid";
+"Day time start at: " = "De dag begint om: ";
+"Day mode screen brightness:" = "Helderheid scherm dagmodus:";
+"Evening time start at: " = "De avond begint om: ";
+"Evening mode screen Brightness:" = "Helderheid scherm avondmodus:";
+"Night time start at: " = "De nacht begint om: ";
+"Night mode screen Brightness:" = "Helderheid scherm nachtmodus:";
+"Screen theme:" = "Schermthema:";
+"Light theme" = "Licht thema";
+"Dark theme" = "Donker thema";
+"Auto switching" = "Automatisch schakelen";
+
+//Settings: Slide Show Settings
+"Slide Show Settings" = "Diavertoning";
+"Enable timed Slide Show" = "Schakel getimede diavertoning in";
+"Select which Photo Album to use:" = "Selecteer welk album u wilt gebruiken:";
+"Select delay before slide show starts after inactivity: " = "Selecteer de vertraging voordat de diavertoning begint na inactiviteit: ";
+"Select how long you want the photo to be displayed for: " = "Selecteer hoe lang u de foto wilt laten weergeven: ";
+"Fridge door movement sensitivity:_Low" = "Bewegingsgevoeligheid koelkastdeur: Laag";
+"Fridge door movement sensitivity:_Mid" = "Bewegingsgevoeligheid koelkastdeur: Gemiddeld";
+"Fridge door movement sensitivity:_High" = "Bewegingsgevoeligheid koelkastdeur: Hoog";
+
+"Slide Show to stop after movement is detected (Fridge door opens)" = "Diavertoning stopt nadat beweging is gedetecteerd (koelkastdeur gaat open)";
+"sec." = "sek.";
+"min." = "min.";
+
+
+//Settings: Slide Show Presentation
+"Slide Show Presentation" = "Presentatie diavertoning";
+"Display Clock in Photo" = "Klok in foto weergeven";
+"Display Date in Photo" = "Datum in foto weergeven";
+"display creation date in photo" = "Aanmaakdatum in foto weergeven";
+"Shuffle Photos" = "Shuffle foto's";
+"Photo Zoom Speed" = "Fotozoomsnelheid";
+"Show Location in Photo (if data is available in photo)" = "Lokatie in foto weergeven (als deze beschikbaar is in de foto)";
+
+//Settings: Upcoming Event Calendar
+"Calendar Selection" = "Agenda selecteren";
+"Select the calendars to be shown in the 'Upcoming Event' window." = "Selecteer de agenda's die u wilt weergeven in het venster 'Komende activiteiten'.";
+"Calendar Creation or Edit" = "Agenda maken of bewerken";
+
+//Setting: Today Calendar Selection
+"Today Calendar" = "Calender van vandaag instelling";
+"Select the calendars to be shown in the 'Today' window." = "Selecteer de agenda's die in het venster 'Vandaag' moeten worden weergegeven.";
+
+//Setting: Today Calendar Selection
+"Select the calendar to Edit." = "Selecteer de agenda om te bewerken.";
+
+
+//Settings: Calendar Edit or Creation
+"Type the name of your Calendar here!" = "Typ hier de naam van uw kalender!";
+"Calendar Colour" = "Kalender kleur";
+"Deleting Calendar" = "Kalender verwijderen";
+"New Calendar" = "Nieuwe Kalender"; //used as default i useer creates new calendar, but does not add a text label to the new calendar
+"Create Calendar" = "Agenda maken"; //Header label in settings screen
+"Edit Calendar" = "Agenda bewerken";     //Header label in settings screen
+
+//Settings: Deleting the calendar
+"Are you sure you want to Delete the Calendar?" = "Weet je zeker dat je de kalender wilt verwijderen?";
+"Could not Delete the Calendar" = "Kan de agenda niet verwijderen";
+
+//Settings: Month Calendaar Layout
+"Month View Layout" = "Lay-out van de maandweergave";
+"Start week on:" = "Start de week op:";
+
+//Shopping List
+"Bread" = "Brood";
+"Milk" = "Melk";
+"Eggs" = "Eieren";
+
+
+//Search View
+"Search" = "Zoeken";
+"Type atleast 3 characters to search for the event!" = "Typ minimaal 3 tekens om naar de activiteit te zoeken!";
+
+
+
+
+
+
+//Reminder View
+"Notes" = "Notities";
+"Note" = "Notitie";
+"Type your Note here" = "Voeg hier uw notitie toe";
+"Delete Note:" = "Verwijder notitie: ";
+"Note Limit Reached" = "Notitie limiet bereikt";
+"To create a new Note, you need to delete one first." = "Om een ​​nieuwe notitie te maken, moet u er eerst één verwijderen.";
+
+//Set the year for the month Calendar View
+"Select the Year" = "Selecteer het jaar";
+"Previous Year" = "Vorig jaar";
+"This Year" = "Dit jaar";
+
+//Settings: Info
+"Info" = "Info";
+"Info Text" = "FridgeNote
+
+Ontworpen in Melbourne, Australië
+Versie: 2.9
+
+Voor feedback kunt u een e-mail sturen naar: fridgenote2020@gmail.com
+
+Ga voor meer informatie over FridgeNote naar:
+
+https://sites.google.com/view/fridgenote
+
+
+Tips en trucs.
+
+Zet de functie 'Automatisch slot' in iPad-instellingen op Nooit, om de beste gebruikerservaring te krijgen. Hierdoor kan FridgeNote altijd komende activiteiten en een diavertoning activeren.
+
+Wanneer FridgeNote op de koelkastdeur is gemonteerd, schakel dan in de instellingen de functie ‘Diavertoning stopt nadat beweging is gedetecteerd (koelkastdeur gaat open)’ in. Op deze manier kunt u de komende activiteiten zien wanneer de koelkastdeur opengaat.
+
+De diavertoning wordt geactiveerd na een ingestelde tijd en wordt onderbroken wanneer beweging wordt gedetecteerd door de koelkastdeur of wanneer het scherm wordt aangeraakt.";
+
+//Settings: type of photo albums
+"An album created in the Photos app." = "Lokaal album.";
+"An Event synced to the device from Photos app." = "Gesynchroniseerd gebeurtenisalbum.";
+"A Faces group synced to the device from the Photos app" = "Groep album Gezichten";
+"An album synced to the device from Photos app" = "Lokaal gesynchroniseerd album.";
+"An album imported from a camera or external storage" = "Geïmporteerd album.";
+"The user’s personal iCloud Photo Stream." = "Persoonlijke iCloud-fotostream.";
+"An iCloud Shared Photo Stream" = "Gedeelde iCloud-fotostream.";
+
+//Family: View
+"Calendar Overview" = "Kalender overzicht";
+"Select up to " = "Selecteer maximaal ";
+" calendars in order to show in the 'Calendar Overview' window." = " agendas en rangschik om weer te geven in 'Kalender overzicht'.";
+"Display events in high attention colours" = "Activiteiten weergeven in kleur";

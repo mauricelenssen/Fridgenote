@@ -1,0 +1,331 @@
+/*
+  Base Language File
+ 
+ Localizable.strings
+  Event_V2
+
+  Created by Maurice Lenssen on 21/12/20.
+  Copyright © 2020 Lenssen, Maurice (M.). All rights reserved.
+*/
+
+//Month View
+"Please wait, retrieving initial calendars" = "Please wait, retrieving initial calendars.";
+"More Events" = "More Events"; //Used in the calendar cell if more events are avaiable than can be shown
+//Screen savers, photo presentation
+"and" = "and"; // This text is shown at bottom to show the time when the photo was taken Eg Photo Taken: 2 Year [and] 3 Months ago, and also in in date recurrence eg. jan,feb [and] mar.
+"ago." = "ago."; // This text is shown at bottom to show the time when the photo was taken Eg Photo Taken: 2 Year 3 Months [ago.]
+
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+"Tomorrow" = "Tomorrow";
+"All Day" = "All Day";
+
+
+//Main Window Test Strings
+"Shopping List" = "Shopping List";
+"Upcoming Events" = "Upcoming Events";
+"To Do List" = "To Do List";
+"Timer" = "Timer";
+
+"Please add your To Do List here." = "Please add your To Do List here.";
+"Please add your Shopping List here." = "Please add your Shopping List here.";
+"Add Calendar" = "Add Calendar";
+"Calendar & Photo Access Disabled, please enable in iPad Settings" = "Calendar & Photo Access Disabled, please enable in iPad Settings";
+
+"Calendar Access Disabled, please enable in iPad Settings" = "Calendar Access Disabled, please enable in iPad Settings";
+"Photo Access Disabled, please enable in iPad Settings" = "Photo Access Disabled, please enable in iPad Settings";
+
+//No Photo Album Selected Popup when user presses the photo button
+"No Photo Album" = "No Photo Album";
+"This button activates the Photo Slide Show. Currently there is no photo album selected. Do you want to select a photo Album stored on your device?" = "There is no photo album selected. Do you want to select a photo Album stored on your device?";
+
+//Delete popup screens
+"Warning" = "Warning";
+"Delete Shopping List" = "Delete Shopping List";
+"Delete To Do List" = "Delete To Do List";
+
+//Calendar Edit screen
+"Create a Calendar Event" = "Create a Calendar Event";
+"Type the name of your Calendar Event here!" = "Type the name of your Calendar Event here!" ;
+//"All Day Event" = "All Day Event";
+"Event Time" = "Event Time";
+"Unlock App," = "Unlock App, ";
+" entries left." = " entries Left.";
+
+"Calendar:" = "Calendar:";
+"Repeat:" = "Repeat:";
+
+
+//Duration of the Calendar events
+"15 min." = "15 min.";
+"30 min." = "30 min.";
+"1 hour" = "1 hour";
+"2 hours" = "2 hours";
+"4 hours" = "4 hours";
+"2 days" = "2 days";
+"3 days" = "3 days";
+"4 days" = "4 days";
+"5 days" = "5 days";
+"6 days" = "6 days";
+"1 week" = "1 week";
+"1 month" = "1 month";
+
+//Alarm time of the calendar events
+"seconds" = "seconds";
+"min." = "min.";
+"hours" = "hours";
+"min." = "min.";
+"hour" = "hour";
+"before" = "before";
+"after" = "after";
+"None" = "None";
+
+//Repeat/Alarm the Calendar events labels
+"Daily" = "Every Day";
+"Weekly" = "Every Week";
+"Monthly" = "Every Month";
+"Year" = "Every Year";
+"Custom" = "Custom";
+"day" = "day";
+"days" = "days";
+"week" = "week";
+"weeks" = "weeks";
+"month" = "month";
+"months" = "months";
+"year" = "year";
+"years" = "years";
+"every" = "Every";
+"started" = "Started"; //for events that have started in the passed, Eg. Holiday started, instead of Holiday -2 day
+
+"week on" = "week on:";
+"weeks on" = "weeks on:";
+//"month on" = "month on";
+//"months on" = "months on";
+//"year in" = "year in";
+//"years in" = "years in";
+"l" = "Last"; //last day of the month
+
+"every day" = "Every day";
+"every week" = "Every week";
+"every week on" = "Every week on";
+"every month" = "Every month";
+//"every month on" = "Every month on";
+"every year" = "Every year";
+//"every year in" = "Every year in";
+
+
+"on the:" = "On the:"; //toggle button in month recurrence popup
+"in:" = "In:"; //toggle button in year recurrence popup
+"each:" = "Each:"; //toggle button in month and year recurrence popup
+
+"each" = "each"; //repeats ever 2 weeks [each] Monday, tuesday, friday
+"on day" = "on day"; //repeats ever 2 months [on day] 1,2,4.
+
+"on the" = "on the"; //repeats ever 2 months [on the] first Tueday.
+"On the" = "On the"; //repeats every year in Feb, Mar and Sep.[On the] first Monday
+"in" = "in"; //repeats every year [in] April, March
+"every year in:" = "Every year in:"; //year recurrence edit [every year in:] Jan, Feb
+"years in:" = "years in:"; //year recurrence edit [every year:] Jan, feb
+"day" = "day"; //repeats every month on the 1st,2nd [day]
+"event does not repeat" = "Event does not repeat"; //This text is used i nthe No repeat view inthe recurrence settings
+
+"jan" = "Jan";
+"feb" = "Feb";
+"mar" = "Mar";
+"apr" = "Apr";
+"may" = "May";
+"jun" = "Jun";
+"jul" = "Jul";
+"aug" = "Aug";
+"sep" = "Sep";
+"oct" = "Oct";
+"nov" = "Nov";
+"dec" = "Dec";
+
+"sunday" = "Sunday";
+"monday" = "Monday";
+"tuesday" = "Tuesday";
+"wednesday" = "Wednesday";
+"thursday" = "Thursday";
+"friday" = "Friday";
+"saturday"  = "Saturday";
+"weekday"  = "weekday";
+"weekend" = "weekend day";
+
+"first" = "first";
+"second" = "second";
+"third" = "third";
+"fourth" = "fourth";
+"fifth" = "fifth";
+"last" = "last"; //repeats ever 2 months on the 1st, 2nd, [last] day
+
+
+
+//In App purchase: Restoring
+"Restore Purchase" = "Restore Purchase";
+"Purchase restored" = "Purchase restored";
+"Your app is now unlocked, the purchase has been restored." = "The App is now unlocked, the purchase has been restored.";
+"OK" = "OK";
+"Restore Error!" = "Restore Error!";
+"Your app purchase could not be restored!" = "Your app purchase could not be restored!";
+"Unlock App, App is currently unlocked" = "Unlock App, App is currently unlocked";
+"Unlock App, App is currently locked" = "Unlock App, App is currently locked";
+
+
+
+
+//Different calendar types, displayed underneath calendar
+"Local"  = "Local";
+"iCloud" = "iCloud";
+"Exchange" = "Exchange";
+"Subscription" = "Subscription";
+"Birthday" = "Birthday";
+"Found in Mail" = "Found in Mail";
+
+"All Photos on the device" = "All Photos not in albums on the device";
+
+
+
+//Calender Info/Delete Screen:
+"Event Info" = "Event Info";
+"Start: " = "Start: ";
+"End: " = "End: ";
+"Calendar:" = "Calendar:";
+"Repeats:" = "Repeats:";
+"Alarm:" = "Alarm:";
+"Deleting Calendar Event" = "Deleting Calendar Event";
+"Error - Could Not Delete Event" = "Error - Could Not Delete Event";
+"Creating Event" = "Creating Event";
+"Updating Event" = "Updating Event";
+"Error - Adding Event" = "Error - Adding Event";
+
+//Setting: Screen Brigthness Settings
+"Settings" = "Settings";
+"Screen Brightness Settings" = "Screen Brightness";
+
+"Day time start at: " = "Day time start at: " ;
+"Day mode screen brightness:" = "Day mode screen brightness:";
+"Evening time start at: " = "Evening time start at: ";
+"Evening mode screen Brightness:" = "Evening mode screen Brightness:";
+"Night time start at: " = "Night time start at: ";
+"Night mode screen Brightness:" = "Night mode screen Brightness:";
+"Screen theme:" = "Screen theme:";
+"Light theme" = "Light theme";
+"Dark theme" = "Dark theme";
+"Auto switching" = "Auto switching";
+
+//Settings: Slide Show Settings
+"Slide Show Settings" = "Slide Show";
+"Photo Limit of 5" = "Unlock App, photo limit is 5";
+"Enable timed Slide Show" = "Enable timed Slide Show";
+"Select which Photo Album to use:" = "Select which Photo Album to use:";
+"Select delay before slide show starts after inactivity: " = "Select delay before slide show starts after inactivity: ";
+"Select how long you want the photo to be displayed for: " = "Select how long you want the photo to be displayed for: ";
+"Fridge door movement sensitivity:_Low" = "Fridge door movement sensitivity: Low";
+"Fridge door movement sensitivity:_Mid" = "Fridge door movement sensitivity: Mid";
+"Fridge door movement sensitivity:_High" = "Fridge door movement sensitivity: High";
+
+"Slide Show to stop after movement is detected (Fridge door opens)" = "Slide Show to stop after movement is detected (Fridge door opens)";
+"sec." = "sec.";
+"min." = "min.";
+
+
+//Settings: Slide Show Presentation
+"Slide Show Presentation" = "Slide Show Presentation";
+"Display Clock in Photo" = "Display Clock in Photo";
+"Display Date in Photo" = "Display Date in Photo";
+"display creation date in photo" = "Display Creation Date in Photo";
+"Shuffle Photos" = "Shuffle Photos";
+"Photo Zoom Speed" = "Photo Zoom Speed";
+"Show Location in Photo (if data is available in photo)" = "Show Location in Photo (if data is available in photo)";
+
+//Settings: Upcoming Event Calendar
+"Calendar Selection" = "Calendar Selection";
+"Select the calendars to be shown in the 'Upcoming Event' window." = "Select the calendars to be shown in the 'Upcoming Event' window";
+"Calendar Creation or Edit" = "Calendar Creation or Edit";
+
+//Setting: Today Calendar Selection
+"Today Calendar" = "Today Calendar";
+"Select the calendars to be shown in the 'Today' window" = "Select the calendars to be shown in the 'Today' window";
+
+//Setting: Today Calendar Selection
+"Select the calendar to Edit." = "Select the calendar to Edit.";
+
+//Settings: Calendar Edit or Creation
+"Type the name of your Calendar here!" = "Type the name of your Calendar here!";
+"Calendar Colour" = "Calendar Colour";
+"Deleting Calendar" = "Deleting Calendar";
+"New Calendar" = "New Calendar"; //used as default i useer creates new calendar, but does not add a text label to the new calendar
+"Create Calendar" = "Create Calendar"; //Header label in settings screen
+"Edit Calendar" = "Edit Calendar";     //Header label in settings screen
+
+//Settings: Deleting the calendar
+"Are you sure you want to Delete the Calendar?" = "Are you sure you want to Delete the Calendar?";
+"Could not Delete the Calendar" = "Could not Delete the Calendar";
+
+
+//Settings: Month Calendaar Layout
+"Month View Layout" = "Month View Layout";
+"Start week on:" = "Start week on:";
+
+//Shopping List
+"Bread" = "Bread";
+"Milk" = "Milk";
+"Eggs" = "Eggs";
+
+//Search View
+"Search" = "Search";
+"Type atleast 3 characters to search for the event!" = "Type atleast 3 characters to search for the event!";
+
+//Reminder View
+"Notes" = "Notes";
+"Note" = "Note";
+"Type your Note here" = "Type your Note here";
+"Delete Note:" = "Delete Note: ";
+"Note Limit Reached" = "Note Limit Reached";
+"To create a new Note, you need to delete one first." = "To create a new Note, you need to delete one first.";
+
+//Set the year for the month Calendar View
+"Select the Year" = "Select the Year";
+"Previous Year" = "Last Year";
+"This Year" = "This Year";
+
+
+//Settings: Info
+"Info" = "Info";
+"Info Text" = "FridgeNote
+
+Designed in Melbourne Australia
+Version: 2.9
+
+For feedback please email: fridgenote2020@gmail.com
+
+For more information regarding FridgeNote visit:
+
+https://sites.google.com/view/fridgenote
+
+
+Tips and Tricks.
+
+To get the best user experience, disable the Auto-lock feature in iPad Settings. It will make FridgeNote always able to show calendars and a slide show.
+
+When FridgeNote is mounted on the fridge door, enable in settings the feature ‘Slide Show to stop after movement is detected’ this way when the fridge door opens you can see your agenda and upcoming events.
+
+The slide show is activated after a set time and is interrupted when movement is detected by the fridge door, or when the screen is touched.
+
+Enjoy!";
+
+//Settings: type of photo albums
+"An album created in the Photos app." = "Local album.";
+"An Event synced to the device from Photos app." = "Synced event album";
+"A Faces group synced to the device from the Photos app" = "Faces group album";
+"An album synced to the device from Photos app" = "Local synced album.";
+"An album imported from a camera or external storage" = "Imported album";
+"The user’s personal iCloud Photo Stream." = "Personal iCloud Photo Stream.";
+"An iCloud Shared Photo Stream" = "iCloud Shared Photo Stream.";
+  
+//Family: View
+"Calendar Overview" = "Calendar Overview";
+"Select up to " = "Select up to ";
+" calendars in order to show in the 'Calendar Overview' window." = " calendars in order to show in the 'Calendar Overview' window.";
+"Display events in high attention colours" = "Display events in calendar colours";

@@ -1,0 +1,507 @@
+
+/* Class = "UITextView"; text = "This button activates the Photo Slide Show. Currently there is no photo album selected. Do you want to select a photo Album stored on your device?"; ObjectID = "0K3-lc-fjS"; */
+"0K3-lc-fjS.text" = "This button activates the Photo Slide Show. Currently there is no photo album selected. Do you want to select a photo Album stored on your device?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0Mp-ea-nED"; */
+"0Mp-ea-nED.text" = "Label";
+
+/* Class = "UILabel"; text = "Mon"; ObjectID = "0PS-p9-t3U"; */
+"0PS-p9-t3U.text" = "Mon";
+
+/* Class = "UILabel"; text = "16"; ObjectID = "2DR-aa-ISX"; */
+"2DR-aa-ISX.text" = "16";
+
+/* Class = "UILabel"; text = "Thursday"; ObjectID = "2tj-sm-8M1"; */
+"2tj-sm-8M1.text" = "Thursday";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Nw-VX-HdU"; */
+"3Nw-VX-HdU.text" = "Label";
+
+/* Class = "UILabel"; text = "Dec"; ObjectID = "3iB-fk-S0d"; */
+"3iB-fk-S0d.text" = "Dec";
+
+/* Class = "UILabel"; text = "500%"; ObjectID = "3rh-m1-BOW"; */
+"3rh-m1-BOW.text" = "500%";
+
+/* Class = "UITextField"; placeholder = "Type the name of your Calender Event here."; ObjectID = "4N0-J3-o89"; */
+"4N0-J3-o89.placeholder" = "Type the name of your Calender Event here.";
+
+/* Class = "UILabel"; text = "Wed"; ObjectID = "4gN-qw-zwG"; */
+"4gN-qw-zwG.text" = "Wed";
+
+/* Class = "UILabel"; text = "10%"; ObjectID = "4l7-ul-rhf"; */
+"4l7-ul-rhf.text" = "10%";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "5WK-wR-Dl6"; */
+"5WK-wR-Dl6.text" = "Birthday";
+
+/* Class = "UILabel"; text = "Milk"; ObjectID = "5wQ-qa-G4W"; */
+"5wQ-qa-G4W.text" = "Milk";
+
+/* Class = "UILabel"; text = "Ham"; ObjectID = "6Eg-GY-pWI"; */
+"6Eg-GY-pWI.text" = "Ham";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6Eq-WJ-ccB"; */
+"6Eq-WJ-ccB.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "6RO-qR-NJ1"; */
+"6RO-qR-NJ1.text" = "1";
+
+/* Class = "UILabel"; text = "2020"; ObjectID = "6vZ-H7-pzl"; */
+"6vZ-H7-pzl.text" = "2020";
+
+/* Class = "UILabel"; text = "Event Info"; ObjectID = "6zD-yK-bq6"; */
+"6zD-yK-bq6.text" = "Event Info";
+
+/* Class = "UILabel"; text = "Bread"; ObjectID = "8Tj-Y8-fkQ"; */
+"8Tj-Y8-fkQ.text" = "Bread";
+
+/* Class = "UILabel"; text = "Tue"; ObjectID = "8lX-Kd-E4w"; */
+"8lX-Kd-E4w.text" = "Tue";
+
+/* Class = "UILabel"; text = "Salami"; ObjectID = "946-wj-awI"; */
+"946-wj-awI.text" = "Salami";
+
+/* Class = "UILabel"; text = "Salami"; ObjectID = "A19-LP-hpn"; */
+"A19-LP-hpn.text" = "Salami";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "APg-Xs-Dca"; */
+"APg-Xs-Dca.text" = "Label";
+
+/* Class = "UILabel"; text = "5 minutes"; ObjectID = "AZI-kM-pud"; */
+"AZI-kM-pud.text" = "5 minutes";
+
+/* Class = "UILabel"; text = "Screen Theme:"; ObjectID = "BnS-BE-i29"; */
+"BnS-BE-i29.text" = "Screen Theme:";
+
+/* Class = "UILabel"; text = "Select how long you want the photo to be displayed for: 60 sec."; ObjectID = "CdN-oS-X2R"; */
+"CdN-oS-X2R.text" = "Select how long you want the photo to be displayed for: 60 sec.";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "ENP-zs-hHD"; */
+"ENP-zs-hHD.text" = "Fri";
+
+/* Class = "UILabel"; text = "Ham"; ObjectID = "EPE-e5-ZhI"; */
+"EPE-e5-ZhI.text" = "Ham";
+
+/* Class = "UILabel"; text = "Display Date in Photo"; ObjectID = "Efg-Ab-XvU"; */
+"Efg-Ab-XvU.text" = "Display Date in Photo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fu2-hV-eYo"; */
+"Fu2-hV-eYo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G30-xp-gC6"; */
+"G30-xp-gC6.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GYX-IG-ZTh"; */
+"GYX-IG-ZTh.text" = "Label";
+
+/* Class = "UILabel"; text = "15 September"; ObjectID = "GdX-Vu-0MV"; */
+"GdX-Vu-0MV.text" = "15 September";
+
+/* Class = "UITextView"; text = "Please Add your To Do items here."; ObjectID = "GfR-OW-rwp"; */
+"GfR-OW-rwp.text" = "Please Add your To Do items here.";
+
+/* Class = "UILabel"; text = "September 2020"; ObjectID = "Gg0-um-oRY"; */
+"Gg0-um-oRY.text" = "September 2020";
+
+/* Class = "UILabel"; text = "Timer"; ObjectID = "HP9-bV-8Wl"; */
+"HP9-bV-8Wl.text" = "Timer";
+
+/* Class = "UILabel"; text = "Name: Sam Set the Table"; ObjectID = "IeR-IM-jdI"; */
+"IeR-IM-jdI.text" = "Name: Sam Set the Table";
+
+/* Class = "UILabel"; text = "Salami"; ObjectID = "Izq-KZ-kLI"; */
+"Izq-KZ-kLI.text" = "Salami";
+
+/* Class = "UILabel"; text = "All Day"; ObjectID = "JJd-9f-ta6"; */
+"JJd-9f-ta6.text" = "All Day";
+
+/* Class = "UILabel"; text = "Salami"; ObjectID = "JOv-OF-vNK"; */
+"JOv-OF-vNK.text" = "Salami";
+
+/* Class = "UILabel"; text = "Thu"; ObjectID = "JWX-PV-GZW"; */
+"JWX-PV-GZW.text" = "Thu";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jfr-6C-R5X"; */
+"Jfr-6C-R5X.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Knn-BW-srz"; */
+"Knn-BW-srz.text" = "Label";
+
+/* Class = "UILabel"; text = "Tuesday"; ObjectID = "LEW-Zn-M8l"; */
+"LEW-Zn-M8l.text" = "Tuesday";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LZV-fK-yGP"; */
+"LZV-fK-yGP.text" = "Label";
+
+/* Class = "UILabel"; text = "Night Mode screen brightness: "; ObjectID = "LnW-es-h29"; */
+"LnW-es-h29.text" = "Night Mode screen brightness: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N0O-vh-Myr"; */
+"N0O-vh-Myr.text" = "Label";
+
+/* Class = "UILabel"; text = "12:00"; ObjectID = "Nca-6g-fUT"; */
+"Nca-6g-fUT.text" = "12:00";
+
+/* Class = "UILabel"; text = "Select delay before Slide Show starts after inactivity: 10 min."; ObjectID = "NeW-w6-glh"; */
+"NeW-w6-glh.text" = "Select delay before Slide Show starts after inactivity: 10 min.";
+
+/* Class = "UILabel"; text = "22:30:00"; ObjectID = "O4y-HC-oVH"; */
+"O4y-HC-oVH.text" = "22:30:00";
+
+/* Class = "UIButton"; normalTitle = "Add Calendar"; ObjectID = "OW4-mb-CVP"; */
+"OW4-mb-CVP.normalTitle" = "Add Calendar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ob5-4v-3p7"; */
+"Ob5-4v-3p7.text" = "Label";
+
+/* Class = "UILabel"; text = "Screen Brightness Settings"; ObjectID = "Od9-oY-D4T"; */
+"Od9-oY-D4T.text" = "Screen Brightness Settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ot3-d1-UU4"; */
+"Ot3-d1-UU4.text" = "Label";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "Pb4-3a-oqB"; */
+"Pb4-3a-oqB.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ppj-Cb-LhA"; */
+"Ppj-Cb-LhA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q5a-OE-lYy"; */
+"Q5a-OE-lYy.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q9V-kA-P5H"; */
+"Q9V-kA-P5H.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QFG-Uj-9FG"; */
+"QFG-Uj-9FG.text" = "Label";
+
+/* Class = "UILabel"; text = "Calendar:"; ObjectID = "Qep-Fi-j52"; */
+"Qep-Fi-j52.text" = "Calendar:";
+
+/* Class = "UILabel"; text = "16 Dec"; ObjectID = "R06-aL-024"; */
+"R06-aL-024.text" = "16 Dec";
+
+/* Class = "UILabel"; text = "Warning"; ObjectID = "R67-bb-emI"; */
+"R67-bb-emI.text" = "Warning";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RTP-u8-Fu6"; */
+"RTP-u8-Fu6.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rv7-p1-ksM"; */
+"Rv7-p1-ksM.text" = "Label";
+
+/* Class = "UILabel"; text = "All Day Event"; ObjectID = "S7f-xG-qbJ"; */
+"S7f-xG-qbJ.text" = "All Day Event";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SZd-y1-maa"; */
+"SZd-y1-maa.text" = "Label";
+
+/* Class = "UILabel"; text = "5:00 pm"; ObjectID = "Spu-08-NdS"; */
+"Spu-08-NdS.text" = "5:00 pm";
+
+/* Class = "UILabel"; text = "Delete To Do List"; ObjectID = "TIX-n2-TT1"; */
+"TIX-n2-TT1.text" = "Delete To Do List";
+
+/* Class = "UILabel"; text = "5:00 pm"; ObjectID = "TRt-m9-soL"; */
+"TRt-m9-soL.text" = "5:00 pm";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ue8-qZ-P62"; */
+"Ue8-qZ-P62.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VRW-bx-hYl"; */
+"VRW-bx-hYl.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Screen Brightness"; ObjectID = "Vtl-qc-leu"; */
+"Vtl-qc-leu.title" = "Screen Brightness";
+
+/* Class = "UITabBarItem"; title = "Slide Show Presentation"; ObjectID = "Vuy-qB-eBY"; */
+"Vuy-qB-eBY.title" = "Slide Show Presentation";
+
+/* Class = "UILabel"; text = "16 December"; ObjectID = "WFa-ms-q4O"; */
+"WFa-ms-q4O.text" = "16 December";
+
+/* Class = "UILabel"; text = "Evening Mode screen brightness:"; ObjectID = "WWN-Dp-3sc"; */
+"WWN-Dp-3sc.text" = "Evening Mode screen brightness:";
+
+/* Class = "UIButton"; normalTitle = "Add Calendar"; ObjectID = "Wxl-5e-C7Z"; */
+"Wxl-5e-C7Z.normalTitle" = "Add Calendar";
+
+/* Class = "UILabel"; text = "To Do List"; ObjectID = "X3e-Tn-oh7"; */
+"X3e-Tn-oh7.text" = "To Do List";
+
+/* Class = "UILabel"; text = "Callendar Acces disabled, please enable access in iPad Settings"; ObjectID = "XHG-RG-hzA"; */
+"XHG-RG-hzA.text" = "Callendar Acces disabled, please enable access in iPad Settings";
+
+/* Class = "UILabel"; text = "No photo Album"; ObjectID = "XIB-Ln-9mx"; */
+"XIB-Ln-9mx.text" = "No photo Album";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Y3e-94-TDm"; */
+"Y3e-94-TDm.text" = "Label";
+
+/* Class = "UILabel"; text = "Calendar: "; ObjectID = "YDl-ue-emz"; */
+"YDl-ue-emz.text" = "Calendar: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZH6-qh-hbC"; */
+"ZH6-qh-hbC.text" = "Label";
+
+/* Class = "UILabel"; text = "Monday, 16 December"; ObjectID = "ZTL-oo-2fI"; */
+"ZTL-oo-2fI.text" = "Monday, 16 December";
+
+/* Class = "UILabel"; text = "Shopping List"; ObjectID = "ZVu-Vk-JmK"; */
+"ZVu-Vk-JmK.text" = "Shopping List";
+
+/* Class = "UILabel"; text = "Repeat:"; ObjectID = "Zee-mo-60i"; */
+"Zee-mo-60i.text" = "Repeat:";
+
+/* Class = "UILabel"; text = "Upcoming Event Calendar"; ObjectID = "ZjK-rl-1I9"; */
+"ZjK-rl-1I9.text" = "Upcoming Event Calendar";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "ZoU-s9-A2t"; */
+"ZoU-s9-A2t.text" = "Birthday";
+
+/* Class = "UILabel"; text = "Milk"; ObjectID = "a5x-lL-u7F"; */
+"a5x-lL-u7F.text" = "Milk";
+
+/* Class = "UILabel"; text = "24:00:00"; ObjectID = "aFI-py-xhh"; */
+"aFI-py-xhh.text" = "24:00:00";
+
+/* Class = "UIButton"; normalTitle = "Add Calender"; ObjectID = "aSH-Tx-0Iy"; */
+"aSH-Tx-0Iy.normalTitle" = "Add Calender";
+
+/* Class = "UILabel"; text = "Delete Shopping List"; ObjectID = "avA-j2-vXb"; */
+"avA-j2-vXb.text" = "Delete Shopping List";
+
+/* Class = "UILabel"; text = "Sun"; ObjectID = "avI-DZ-iYX"; */
+"avI-DZ-iYX.text" = "Sun";
+
+/* Class = "UILabel"; text = "Upcoming Events"; ObjectID = "bqk-B9-gIl"; */
+"bqk-B9-gIl.text" = "Upcoming Events";
+
+/* Class = "UILabel"; text = "Display Clock in Photo"; ObjectID = "c0O-Qw-KUI"; */
+"c0O-Qw-KUI.text" = "Display Clock in Photo";
+
+/* Class = "UILabel"; text = "Alarm:"; ObjectID = "cVd-M3-IYF"; */
+"cVd-M3-IYF.text" = "Alarm:";
+
+/* Class = "UILabel"; text = "Today's Event"; ObjectID = "cce-fz-och"; */
+"cce-fz-och.text" = "Today's Event";
+
+/* Class = "UILabel"; text = "Slide Show to stop after movement is detected (Fridge door opens) "; ObjectID = "d2i-cf-0YB"; */
+"d2i-cf-0YB.text" = "Slide Show to stop after movement is detected (Fridge door opens) ";
+
+/* Class = "UILabel"; text = "Cheese"; ObjectID = "d2w-wt-NpI"; */
+"d2w-wt-NpI.text" = "Cheese";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dR0-Yc-9Gt"; */
+"dR0-Yc-9Gt.text" = "Label";
+
+/* Class = "UILabel"; text = "0:00"; ObjectID = "e4f-je-cXy"; */
+"e4f-je-cXy.text" = "0:00";
+
+/* Class = "UILabel"; text = "Duration:"; ObjectID = "eDX-eD-MyE"; */
+"eDX-eD-MyE.text" = "Duration:";
+
+/* Class = "UILabel"; text = "Fridge door movement sensitivity"; ObjectID = "esu-SD-p1W"; */
+"esu-SD-p1W.text" = "Fridge door movement sensitivity";
+
+/* Class = "UITextView"; text = "FridgeNote\n\nDesigned in Melbourne Australia\nVersion 1.3\n\nFor feedback please email: fridgenote2020@gmail.com\n\nFor more information regarding FridgeNote visit:\n\nhttps://sites.google.com/view/fridgenote/home\n\n\nTips and Tricks.\n\nTo get the best user experience, disable the Auto-lock feature in iPad Settings. It will make FridgeNote always able to show calendars and a slide show. \n\nWhen FridgeNote is mounted on the fridge door, enable in settings the feature ‘Slide Show to stop after movement is detected’ this way when the fridge door opens you can see your agenda and upcoming events.\n\nThe slide show is activated after a set time and is interrupted when movement is detected by the frdige door, or when the screen is touched.\n\nEnjoy!"; ObjectID = "euM-OT-Ibx"; */
+"euM-OT-Ibx.text" = "FridgeNote\n\nDesigned in Melbourne Australia\nVersion 1.3\n\nFor feedback please email: fridgenote2020@gmail.com\n\nFor more information regarding FridgeNote visit:\n\nhttps://sites.google.com/view/fridgenote/home\n\n\nTips and Tricks.\n\nTo get the best user experience, disable the Auto-lock feature in iPad Settings. It will make FridgeNote always able to show calendars and a slide show. \n\nWhen FridgeNote is mounted on the fridge door, enable in settings the feature ‘Slide Show to stop after movement is detected’ this way when the fridge door opens you can see your agenda and upcoming events.\n\nThe slide show is activated after a set time and is interrupted when movement is detected by the frdige door, or when the screen is touched.\n\nEnjoy!";
+
+/* Class = "UILabel"; text = "Today Calendar Selection"; ObjectID = "ewm-Fn-aQI"; */
+"ewm-Fn-aQI.text" = "Today Calendar Selection";
+
+/* Class = "UILabel"; text = "Shuffle Photos"; ObjectID = "fQJ-3c-gyD"; */
+"fQJ-3c-gyD.text" = "Shuffle Photos";
+
+/* Class = "UILabel"; text = "Milk"; ObjectID = "fXS-4c-kvR"; */
+"fXS-4c-kvR.text" = "Milk";
+
+/* Class = "UILabel"; text = "Bread"; ObjectID = "g0x-Th-5JP"; */
+"g0x-Th-5JP.text" = "Bread";
+
+/* Class = "UILabel"; text = "Select which Photo Album to use:"; ObjectID = "gAN-WI-9jV"; */
+"gAN-WI-9jV.text" = "Select which Photo Album to use:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gc7-l8-nVD"; */
+"gc7-l8-nVD.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "goP-h9-Hbn"; */
+"goP-h9-Hbn.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "goR-Kv-mq9"; */
+"goR-Kv-mq9.text" = "Label";
+
+/* Class = "UILabel"; text = "Friday"; ObjectID = "guf-Gc-Ntc"; */
+"guf-Gc-Ntc.text" = "Friday";
+
+/* Class = "UILabel"; text = "All Day"; ObjectID = "h8L-MU-e4h"; */
+"h8L-MU-e4h.text" = "All Day";
+
+/* Class = "UILabel"; text = "Start Time: 13 Feb. 11:30"; ObjectID = "hQ6-1V-cyd"; */
+"hQ6-1V-cyd.text" = "Start Time: 13 Feb. 11:30";
+
+/* Class = "UILabel"; text = "Saturday"; ObjectID = "hsm-dw-Y7D"; */
+"hsm-dw-Y7D.text" = "Saturday";
+
+/* Class = "UILabel"; text = "Create a Calendar Event"; ObjectID = "hyn-oo-G0Z"; */
+"hyn-oo-G0Z.text" = "Create a Calendar Event";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iDl-Nc-zu3"; */
+"iDl-Nc-zu3.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iGe-TM-bos"; */
+"iGe-TM-bos.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ifN-pz-Zh0"; */
+"ifN-pz-Zh0.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iz3-5b-YD7"; */
+"iz3-5b-YD7.text" = "Label";
+
+/* Class = "UILabel"; text = "Ham"; ObjectID = "jED-3u-Ti7"; */
+"jED-3u-Ti7.text" = "Ham";
+
+/* Class = "UILabel"; text = "Event Time"; ObjectID = "jP9-yk-1aQ"; */
+"jP9-yk-1aQ.text" = "Event Time";
+
+/* Class = "UILabel"; text = "Alarm Set"; ObjectID = "jnd-Cg-D1h"; */
+"jnd-Cg-D1h.text" = "Alarm Set";
+
+/* Class = "UITabBarItem"; title = "Photo Albums"; ObjectID = "k1r-tP-4pb"; */
+"k1r-tP-4pb.title" = "Photo Albums";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kLX-9k-kuw"; */
+"kLX-9k-kuw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ksw-Ln-Xfo"; */
+"ksw-Ln-Xfo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "le2-k6-RlI"; */
+"le2-k6-RlI.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Upcoming Events"; ObjectID = "lfc-ln-osn"; */
+"lfc-ln-osn.title" = "Upcoming Events";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nTG-d9-2a4"; */
+"nTG-d9-2a4.text" = "Label";
+
+/* Class = "UILabel"; text = "Milk"; ObjectID = "nn5-Y5-RzJ"; */
+"nn5-Y5-RzJ.text" = "Milk";
+
+/* Class = "UILabel"; text = "Info"; ObjectID = "nuT-8u-9Ae"; */
+"nuT-8u-9Ae.text" = "Info";
+
+/* Class = "UITextView"; text = "Please Add your Shopping List here."; ObjectID = "owR-OW-IbC"; */
+"owR-OW-IbC.text" = "Please Add your Shopping List here.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pee-5r-erv"; */
+"pee-5r-erv.text" = "Label";
+
+/* Class = "UILabel"; text = "Wednesday"; ObjectID = "qOM-Ug-K4I"; */
+"qOM-Ug-K4I.text" = "Wednesday";
+
+/* Class = "UILabel"; text = "11:30"; ObjectID = "qRk-f4-1uc"; */
+"qRk-f4-1uc.text" = "11:30";
+
+/* Class = "UISegmentedControl"; r1N-NF-gGi.segmentTitles[0] = "Light Theme"; ObjectID = "r1N-NF-gGi"; */
+"r1N-NF-gGi.segmentTitles[0]" = "Light Theme";
+
+/* Class = "UISegmentedControl"; r1N-NF-gGi.segmentTitles[1] = "Dark Theme"; ObjectID = "r1N-NF-gGi"; */
+"r1N-NF-gGi.segmentTitles[1]" = "Dark Theme";
+
+/* Class = "UISegmentedControl"; r1N-NF-gGi.segmentTitles[2] = "Auto Switching"; ObjectID = "r1N-NF-gGi"; */
+"r1N-NF-gGi.segmentTitles[2]" = "Auto Switching";
+
+/* Class = "UILabel"; text = "Repeats"; ObjectID = "rHS-ic-VvV"; */
+"rHS-ic-VvV.text" = "Repeats";
+
+/* Class = "UILabel"; text = "Bread"; ObjectID = "rNI-xz-FE6"; */
+"rNI-xz-FE6.text" = "Bread";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rrO-QL-gnl"; */
+"rrO-QL-gnl.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Info"; ObjectID = "s0r-bd-V6M"; */
+"s0r-bd-V6M.title" = "Info";
+
+/* Class = "UILabel"; text = "Select the calendar(s) to be shown in the 'Upcoming Event' window"; ObjectID = "tCW-XB-Fvp"; */
+"tCW-XB-Fvp.text" = "Select the calendar(s) to be shown in the 'Upcoming Event' window";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tJN-um-wwb"; */
+"tJN-um-wwb.text" = "Label";
+
+/* Class = "UILabel"; text = "Sat"; ObjectID = "tOx-gJ-fFS"; */
+"tOx-gJ-fFS.text" = "Sat";
+
+/* Class = "UILabel"; text = "Upcoming Events"; ObjectID = "tr1-qk-rBP"; */
+"tr1-qk-rBP.text" = "Upcoming Events";
+
+/* Class = "UILabel"; text = "Cheese"; ObjectID = "u3p-2s-ffm"; */
+"u3p-2s-ffm.text" = "Cheese";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uHT-hl-zol"; */
+"uHT-hl-zol.text" = "Label";
+
+/* Class = "UILabel"; text = "Select the calendars to be shown in the 'Today' Window."; ObjectID = "uJv-gF-Irb"; */
+"uJv-gF-Irb.text" = "Select the calendars to be shown in the 'Today' Window.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uNc-Tr-QAV"; */
+"uNc-Tr-QAV.text" = "Label";
+
+/* Class = "UILabel"; text = "Creating Event"; ObjectID = "urp-vg-R4g"; */
+"urp-vg-R4g.text" = "Creating Event";
+
+/* Class = "UILabel"; text = "Day Mode screen Brightness: "; ObjectID = "vEz-Td-Qoi"; */
+"vEz-Td-Qoi.text" = "Day Mode screen Brightness: ";
+
+/* Class = "UILabel"; text = "Warning"; ObjectID = "vLZ-Pl-j19"; */
+"vLZ-Pl-j19.text" = "Warning";
+
+/* Class = "UILabel"; text = "Cheese"; ObjectID = "vNG-bP-QL4"; */
+"vNG-bP-QL4.text" = "Cheese";
+
+/* Class = "UILabel"; text = "Bread"; ObjectID = "vXe-ZM-v3w"; */
+"vXe-ZM-v3w.text" = "Bread";
+
+/* Class = "UILabel"; text = "Slide Show Settings"; ObjectID = "vtL-EN-rfq"; */
+"vtL-EN-rfq.text" = "Slide Show Settings";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "wSD-Cw-esl"; */
+"wSD-Cw-esl.text" = "None";
+
+/* Class = "UILabel"; text = "Ham"; ObjectID = "wpv-S2-Bm9"; */
+"wpv-S2-Bm9.text" = "Ham";
+
+/* Class = "UILabel"; text = "Cheese"; ObjectID = "wtD-V8-Sr7"; */
+"wtD-V8-Sr7.text" = "Cheese";
+
+/* Class = "UILabel"; text = "Photo Zoom Speed"; ObjectID = "x2i-Zi-qCi"; */
+"x2i-Zi-qCi.text" = "Photo Zoom Speed";
+
+/* Class = "UILabel"; text = "End Time: 14 Feb. 12:30"; ObjectID = "x8o-Oh-Oe8"; */
+"x8o-Oh-Oe8.text" = "End Time: 14 Feb. 12:30";
+
+/* Class = "UILabel"; text = "Slide Show Presentation"; ObjectID = "xPj-vl-SkV"; */
+"xPj-vl-SkV.text" = "Slide Show Presentation";
+
+/* Class = "UILabel"; text = "Enable timed Slide Show"; ObjectID = "xUx-e8-gGh"; */
+"xUx-e8-gGh.text" = "Enable timed Slide Show";
+
+/* Class = "UILabel"; text = "23:35"; ObjectID = "xab-dk-qFq"; */
+"xab-dk-qFq.text" = "23:35";
+
+/* Class = "UILabel"; text = "Jake set the table"; ObjectID = "yQ8-Tg-eWF"; */
+"yQ8-Tg-eWF.text" = "Jake set the table";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yQE-ex-mEy"; */
+"yQE-ex-mEy.text" = "Label";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "ybl-Ii-IwB"; */
+"ybl-Ii-IwB.text" = "Monday";
+
+/* Class = "UILabel"; text = "5:00 pm"; ObjectID = "zTb-eZ-7PW"; */
+"zTb-eZ-7PW.text" = "5:00 pm";
+
+/* Class = "UITabBarItem"; title = "Today Calendar"; ObjectID = "zWS-lQ-QBx"; */
+"zWS-lQ-QBx.title" = "Today Calendar";

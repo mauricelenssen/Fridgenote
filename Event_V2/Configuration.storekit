@@ -1,0 +1,33 @@
+{
+  "identifier" : "B336D102",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1FAAF807",
+      "localizations" : [
+        {
+          "description" : "Remove5 Photo Limit",
+          "displayName" : "Remove Photo Limit",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.au.mauricelenssen.fridgenote.removeLimit",
+      "referenceName" : "Remove 5 Photo Limit",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

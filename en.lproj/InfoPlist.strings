@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Event_V2
+
+  Created by Maurice Lenssen on 29/1/21.
+  Copyright © 2021 Lenssen, Maurice (M.). All rights reserved.
+*/
+
+"NSCalendarsUsageDescription" = "FridgeNote uses your calendar to display the daily Events.";
+"NSPhotoLibraryUsageDescription" = "FridgeNote uses the photos on your device for a slideshow if you allow it.";
+
