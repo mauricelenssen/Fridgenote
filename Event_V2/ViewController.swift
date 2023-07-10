@@ -16,9 +16,6 @@ import StoreKit
 var todayScrollViewSize = 0
 //END
 
-var testvariable: Int = 0
-
-
 var oldDay:Int = 0 //Used to update all screens in the middle of the night
 
 //BEGIN - Declare the upcoming event array in memory beforehand so this works faster than
