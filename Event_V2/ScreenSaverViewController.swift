@@ -138,7 +138,7 @@ class ScreenSaverViewController: UIViewController {
         else{
             staticPhotoView()
         }
-        
+        /*
         currentImageDateTaken = imageDateTaken
         if displayCreationDateInPhoto == true
         {
@@ -147,7 +147,7 @@ class ScreenSaverViewController: UIViewController {
         else
         {
             updatePhotoSubtitle(state:.off, photoDate: currentImageDateTaken)
-        }
+        }*/
         
         
         updateClockLbl()
@@ -582,6 +582,7 @@ class ScreenSaverViewController: UIViewController {
                             let  imageMetaData : PHAsset = photoAssets.object(at: photoUpNextCounter)
                             imageDateTaken = (imageMetaData.creationDate! as Date)
                             self.photoImageView.image = img
+                            //upNextImage = img
                             print ("displayed the image")
                             self.locationLable.text = ""
                             

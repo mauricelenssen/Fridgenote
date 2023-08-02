@@ -16,6 +16,7 @@ import StoreKit
 var todayScrollViewSize = 0
 //END
 
+var test:Bool = true
 var oldDay:Int = 0 //Used to update all screens in the middle of the night
 
 //BEGIN - Declare the upcoming event array in memory beforehand so this works faster than
@@ -1092,13 +1093,6 @@ class ViewController: UIViewController,UITextViewDelegate , UITableViewDataSourc
         //BEGIN - Send a screen saver activation request Notification
         NotificationCenter.default.post(name: Notification.Name("ScreensaverNotification"), object: nil, userInfo: ["key":"value"])
         //END
-        /*
-        if (userSelectedPhotoAlbum=="") {
-            performSegue(withIdentifier: "NoPhotoAlbumSegue", sender: nil)
-        }
-        else {
-            performSegue(withIdentifier: "ScreenSaverSegue", sender: nil)
-        }*/
     }
     //END
     
